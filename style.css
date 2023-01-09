@@ -43,6 +43,10 @@ p{
     font-size: 1.1em;
 }
 
+h1{
+    color: hsl(218, 44%, 22%);
+}
+
 footer{
     position: fixed;
     bottom: 0;
