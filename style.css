@@ -27,6 +27,7 @@ picture img{
     border-radius: 20px;
     overflow: hidden;
     padding: 20px;
+    box-shadow: 4px 1px 50px rgb(126, 126, 134)
 }
 
 article{
@@ -36,6 +37,7 @@ article{
     margin:  20px auto;
  
 }
+/* Burada widt:100% yapıp padding verince de ortalanıyor */
 
 p{
     margin-top: 20px;
